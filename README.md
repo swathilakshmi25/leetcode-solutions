@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
