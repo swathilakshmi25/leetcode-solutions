@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
