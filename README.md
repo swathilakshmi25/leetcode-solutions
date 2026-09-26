@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Manacher
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
