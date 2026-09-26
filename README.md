@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0112-path-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
