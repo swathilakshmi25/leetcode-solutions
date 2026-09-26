@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
 | ------- |
