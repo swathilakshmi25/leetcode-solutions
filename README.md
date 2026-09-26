@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
