@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Backtracking
 |  |
 | ------- |
