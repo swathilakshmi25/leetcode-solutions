@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Newton's Method
 |  |
 | ------- |
