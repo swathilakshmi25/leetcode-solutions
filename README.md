@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
