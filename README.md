@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0179-largest-number) |
 | [0303-range-sum-query-immutable](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Design
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
@@ -348,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
