@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Newton's Method
