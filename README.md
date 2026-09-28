@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0541-reverse-string-ii](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0541-reverse-string-ii](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
