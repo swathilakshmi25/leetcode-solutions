@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/swathilakshmi25/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
